@@ -2,30 +2,21 @@
 
 Traduzione italiana di **Pokémon Platinum Kaizo — Nightmare Update Final**.
 
-**Alpha 0.1:** la traduzione è incompleta. Restano 1.842 messaggi da tradurre o revisionare e il gioco deve ancora essere testato in DeSmuME.
+**Alpha 0.1:** la traduzione è incompleta.
 
 ## Come usare la patch
 
-La patch italiana si applica a una ROM **già patchata con Kaizo Nightmare Update Final**.
+La patch italiana si applica a una ROM **già patchata di Pokèmon Platino Kaizo**.
 
-1. Scarica [platino-kaizo-it-alpha-0.1.xdelta](platino-kaizo-it-alpha-0.1.xdelta). Se hai scaricato l’intero repository come ZIP, estrailo prima.
-2. Apri [Xdelta patcher](https://kotcrab.github.io/xdelta-wasm/).
-3. In **Source file**, seleziona la tua ROM Kaizo `.nds`.
-4. In **Patch file**, seleziona `platino-kaizo-it-alpha-0.1.xdelta`.
-5. Premi **Apply Patch** e attendi il download del file `.nds` risultante.
-6. Rinominalo, ad esempio, `Platino Kaizo IT alpha.nds` e aprilo in DeSmuME.
+1. Estrai legalmente dalla tua cartuccia una copia di Pokémon Platino US Rev 1.
+2. Recati a questo link e scarica la tua patch di Pokèmon Platinum Kaizo https://emi.dev/platinum-kaizo/
+3. Apri [Xdelta patcher](https://kotcrab.github.io/xdelta-wasm/) e patcha la tua Rom di Pokémon Platino US Rev 1 con l'XDelta di Pokèmon Platinum Kaizo.
+4. Scarica [platino-kaizo-it-alpha-0.1.xdelta](platino-kaizo-it-alpha-0.1.xdelta). Se hai scaricato l’intero repository come ZIP, estrailo prima.
+5. Apri [Xdelta patcher](https://kotcrab.github.io/xdelta-wasm/).
+6. Ri-effettua la patch del tuo NDS di Pokèmon Platinum Kaizo con l'Xdelta presente in questo repository
 
-Conserva la ROM di partenza e una copia del tuo salvataggio durante le prove.
 
-### Se parti da Pokémon Platino US Rev 1
-
-Devi applicare prima la patch originale di Kaizo:
-
-1. Apri lo stesso [Xdelta patcher](https://kotcrab.github.io/xdelta-wasm/).
-2. In **Source file**, scegli la ROM di Pokémon Platinum **US Rev 1**. In **Patch file**, scegli `Pokemon Platinum Kaizo Nightmare Update Final.xdelta` e premi **Apply Patch**.
-3. Usa la ROM appena ottenuta come **Source file** e applica la patch italiana seguendo i passaggi sopra.
-
-L’ordine è: **Platino US Rev 1 → Kaizo Nightmare Update Final → patch italiana**.
+L’ordine è: **Platino US Rev 1 → Kaizo Latest → patch italiana**.
 
 Questo repository contiene la patch italiana. La ROM e la patch originale di Kaizo vanno procurate separatamente.
 
