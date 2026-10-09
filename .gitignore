@@ -1,0 +1,6 @@
+*.nds
+*.sav
+*.dsv
+*.dst
+*.ds[0-9]
+*.bak
